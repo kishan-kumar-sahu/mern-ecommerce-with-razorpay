@@ -11,7 +11,7 @@ const AppState = (props) => {
 
 
 
-    const URL="http://localhost:3000/api"
+    const URL="https://mern-ecommerce-with-razorpay-pay.onrender.com/api"
 
     
 
